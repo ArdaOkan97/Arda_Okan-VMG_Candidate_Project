@@ -15,3 +15,6 @@ Pre-requisites:
    After the video runs, the x-y coordinates of the detected ball will be displayed in a figure.
 
 More information about the algorithm can be seen in the report.
+
+You can run 'test.py' after downloading all files in this project to see how 'detectBall()' function works in 'vmg.py'.
+Uncomment Line 42 in 'vmg.py' to see the generated mask for each frame. 
